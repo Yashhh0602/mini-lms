@@ -5,7 +5,7 @@ const CourseContext = createContext()
 
 const COURSE_ID = '6a173f43670d25afb4772447'
 const USER_ID = 'user123'
-const API = 'http://localhost:5000/api'
+const API = 'https://mini-lms-backend-67ek.onrender.com/api'
 
 export const CourseProvider = ({ children }) => {
   const [course, setCourse] = useState(null)

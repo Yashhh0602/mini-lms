@@ -3,7 +3,7 @@ import { useCourse } from '../context/CourseContext'
 import axios from 'axios'
 
 const USER_ID = 'user123'
-const API = 'http://localhost:5000/api'
+const API = 'https://mini-lms-backend-67ek.onrender.com/api'
 const COURSE_ID = '6a173f43670d25afb4772447'
 
 const VideoPlayer = () => {
