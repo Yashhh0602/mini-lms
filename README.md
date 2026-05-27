@@ -108,3 +108,4 @@ Visit `http://localhost:5173`
 - Docker setup — entire stack runs with one command
 - Optimistic UI — instant feedback with automatic rollback on errors
 - Auto advance — moves to next module when video finishes
+- Loading state — smooth loading screen while course data fetches
