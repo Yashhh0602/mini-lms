@@ -2,9 +2,9 @@
 
 A full-stack Learning Management System built with the MERN stack. Users can browse video modules, track completion progress, and resume videos from where they left off.
 
-## 🔴 Live Demo
-- **Frontend:** [coming soon — add Vercel link]
-- **Backend API:** [coming soon — add Render link]
+## Live Demo
+- **Frontend:** https://mini-lms-silk.vercel.app
+- **Backend API:** https://mini-lms-backend-67ek.onrender.com
 
 ## ✨ Features
 - 📹 Video-based course viewer with HTML5 player
