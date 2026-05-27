@@ -6,13 +6,13 @@ A full-stack Learning Management System built with the MERN stack. Users can bro
 - **Frontend:** https://mini-lms-silk.vercel.app
 - **Backend API:** https://mini-lms-backend-67ek.onrender.com
 
-## ✨ Features
-- 📹 Video-based course viewer with HTML5 player
-- ✅ Mark modules as complete with **optimistic UI updates**
-- 📊 Real-time progress bar showing course completion percentage
-- ⏱️ **Video resume state** — automatically resumes from last watched timestamp
-- 🔄 Error rollback — reverts UI if API call fails
-- 🐳 Fully dockerized — spin up entire stack with one command
+## What it does
+- Browse video modules from a sidebar
+- Mark videos as complete — UI updates instantly without waiting for the server
+- Progress bar tracks how far through the course you are
+- If you pause a video and come back later, it resumes from exactly where you stopped
+- If the API call fails when marking complete, the UI reverts automatically
+- Video ends → automatically marked complete and moves to next module
 
 ## 🛠️ Tech Stack
 **Frontend:** React, Vite, Axios, Context API
